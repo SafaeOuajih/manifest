@@ -2,4 +2,6 @@
 <manifest>
 
   <project path="zephyr" name="zephyr" remote="safaeouajih" />
+  <project path="prebuilts" name="prebuilts" revision="9f4423fce29cbe5e45c4b0db174dab9f8a3467d3" remote="safaeouajih" />
+
 </manifest>

@@ -2,4 +2,6 @@
 <manifest>
 
   <project path="zephyr" name="zephyr" remote="safaeouajih" />
+  <project path="prebuilts/zephyr_prebuilts" name="prebuilts" revision="rpi4b_zephyr" remote="safaeouajih" />
+
 </manifest>

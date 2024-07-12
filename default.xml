@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="safaeouajih"
+           fetch="."
+           review="https://github.com/SafaeOuajih/" />
+  <default revision="main"
+           remote="safaeouajih"
+           sync-j="4" />
+
+  <!-- pull in the rpi4b projects. -->
+  <include name="yocto.xml" />
+  <include name="zephyr.xml" />
+
+</manifest>

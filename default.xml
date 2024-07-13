@@ -3,7 +3,7 @@
 
   <remote  name="safaeouajih"
            fetch="."
-           review="https://github.com/SafaeOuajih/" />
+           review="git@github.com:SafaeOuajih" />
   <default revision="main"
            remote="safaeouajih"
            sync-j="4" />

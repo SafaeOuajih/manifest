@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="zephyr" name="zephyr" remote="safaeouajih" />
-  <project path="prebuilts/zephyr_prebuilts" name="prebuilts" revision="rpi4b_zephyr" remote="safaeouajih" />
+  <project path="zephyr" name="zephyr" revision="private/dev_rpi4b" remote="safaeouajih" />
+  <project path="prebuilts/prebuilts_zephyr" name="prebuilts" revision="9f4423fce29cbe5e45c4b0db174dab9f8a3467d3" remote="safaeouajih" />
 
 </manifest>
